@@ -5,7 +5,7 @@ My name is Mex (commonly known as Zeo online) and I'm a freelance developer from
 [Portfolio](https://zeodev.cc)
 
 ## My Github Statistics
-![Zeo's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-zeo&count_private=true&show_icons=true)
+![Zeo's Github Stats](https://github-readme-stats.vercel.app/api?username=dev-zeo&count_private=true&show_icons=true&theme=onedark)
 
 ## My WakaTime Statistics
 <!--START_SECTION:waka-->
