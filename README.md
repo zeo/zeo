@@ -12,10 +12,10 @@ My name is Mex (commonly known as Zeo online) and I'm a freelance developer from
 ## My WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   40.73 % 
-Lua          7 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   39.74 % 
-PHP          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Markdown     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Lua          9 hrs 13 mins   █████████████▓░░░░░░░░░░░   54.74 % 
+TypeScript   4 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
+Markdown     56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+PHP          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 <!--END_SECTION:waka-->
