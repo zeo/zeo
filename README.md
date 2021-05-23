@@ -6,6 +6,8 @@ My name is Mex (commonly known as Zeo online) and I'm a freelance developer from
 **Frameworks:** ReactJS, Node.JS, Laravel<br/>
 **Technologies:** Git, MySQL, Redis, Nginx, Ubuntu<br/>
 
+Currently getting into C# / ASP.NET
+
 ## Important Links
 [Portfolio](https://zeodev.cc)
 
