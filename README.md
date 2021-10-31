@@ -14,10 +14,10 @@ Currently getting into C# / ASP.NET
 ## My WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-C#               2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.22 % 
-PHP              1 hr 54 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-JavaScript       1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Other            52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Blade Template   49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+C#               2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 % 
+PHP              1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
+Blade Template   1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+JavaScript       1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Other            52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 ```
 <!--END_SECTION:waka-->
