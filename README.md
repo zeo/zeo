@@ -3,10 +3,13 @@ My name is Mex (aka Zeo). I'm a freelance developer from the Netherlands with 4 
 
 ## Technologies I use
 **🌐 Languages:** PHP, TypeScript, Lua, C#<br/>
+
 **🏗️ Frameworks:** Laravel, Node.JS, Next.JS, Vue.JS, React.JS, ASP.NET<br/>
+
 **📃 Databases:** MySQL, PostgreSQL, Redis<br/>
+
 **🛠 Tools:** Git, Vite, Webpack, TailwindCSS, Docker<br/>
 
 ## Links
-[Portfolio](https://zeodev.cc)
+[Portfolio](https://zeodev.cc)</br>
 [Projects](https://zeodev.cc/projects)
