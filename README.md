@@ -1,19 +1,12 @@
-# Zeo
-My name is Mex (commonly known as Zeo online) and I'm a freelance developer from the Netherlands. I have been developing for almost 4 years, starting with NodeJS development and slowly moving towards Game and Web Development. Currently I'm trying to improve my front-end skills, to make sure my websites look as good as they function.
+## About Me
+My name is Mex (aka Zeo). I'm a freelance developer from the Netherlands with 4 years of experience. I started within the Game Modding (specifically Garry's Mod) community doing small to medium freelance projects. I however gradually shifted out of this and started doing Web Development which I'm currently passionate about. In terms of front- and backend development, I mainly prefer backend developer however I'm trying to get more familiar with frontend development to make this more pleasant for me.
 
-## What I do
-**Languages:** TypeScript, JavaScript, Lua, PHP, SQL, (HTML/CSS)<br/>
-**Frameworks:** ReactJS, Node.JS, Laravel<br/>
-**Technologies:** Git, MySQL, Redis, Nginx, Ubuntu<br/>
+## Technologies I use
+**Languages:** PHP, TypeScript, Lua, C#
+**Frameworks:** Laravel, Node.JS, Next.JS, Vue.JS, React.JS, ASP.NET
+**Databases:** MySQL, PostgreSQL, Redis
+**Tools:** Git, Vite, Webpack, TailwindCSS, Docker
 
-Currently getting into C# / ASP.NET
-
-## Important Links
+## Links
 [Portfolio](https://zeodev.cc)
-
-## My WakaTime Statistics
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+[Projects](https://zeodev.cc/projects)
