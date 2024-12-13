@@ -1,5 +1,5 @@
 # Mex de Loo
-📚 Computer Science and Engineering @ TU Eindhoven
+📚 Computer Science and Engineering @ [TU Eindhoven](https://tue.nl)
 
 🌏 https://zeodev.cc
 
